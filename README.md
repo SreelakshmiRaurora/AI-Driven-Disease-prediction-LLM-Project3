@@ -1,1 +1,1 @@
-# AI-Driven-Disease-prediction-LLM-Project3
+# AI-Driven-Disease-Diagnosis-LLM-Project3
