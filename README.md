@@ -10,9 +10,9 @@ This project addresses the challenge of processing unstructured clinical text to
 -Interactive Dashboard
 ## Tech Stack
 -Lnaguages- Python 3.9
--Deep Learning- PyTorch,Hugging Face Transformers
--UI Framework- Streamlit
--Data Processing- Pandas,Scikit-learn
--GenAI- Google Gemini API , Open API
+-Deep Learning: PyTorch,Hugging Face Transformers
+-UI Framework: Streamlit
+-Data Processing: Pandas,Scikit-learn
+-GenAI: Google Gemini API , Open API
 ## Dataset Information
 This system is trained on a dataset of 5000 clinical records across 20 diagostic categoies.
